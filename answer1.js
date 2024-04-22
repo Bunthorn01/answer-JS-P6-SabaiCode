@@ -2,7 +2,8 @@
 const mockDatabase = [
     { id: 1, name: "sok" },
     { id: 2, name: "sao" },
-    { id: 3, name: "pisey" }
+    { id: 3, name: "pisey"},
+    { id: 4, name: "Bunthorn"}
   ];
   
   // b.Function to get user info by id
